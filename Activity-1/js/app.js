@@ -159,6 +159,7 @@ function tab(){
 		$('.wrapper').addClass('hidden')
 		$('.tab').removeClass('hidden')
 		$('h3').addClass('hidden')
+		$('h1').addClass('hidden')
 		$('h2').addClass('hidden')
 		$('audio').addClass('hidden')
 	}
